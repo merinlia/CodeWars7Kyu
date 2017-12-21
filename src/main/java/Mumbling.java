@@ -13,9 +13,8 @@ public class Mumbling {
                     result = result + Character.toUpperCase(currentChar);
                 }
 
-
-                else {
-                    result;
+                else{
+                    
                 }
             }
             result = result + "-" + "lololololol" + "merge conflict merge";
