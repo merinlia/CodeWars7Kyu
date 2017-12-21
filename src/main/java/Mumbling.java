@@ -23,6 +23,7 @@ public class Mumbling {
         }
         System.out.println(result);
         return result.substring(0, result.length() -1 ); //don't need a hyphen (-) after d
+        System.out.println("Hello");
 
     }
 }
