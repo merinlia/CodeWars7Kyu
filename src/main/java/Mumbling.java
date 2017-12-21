@@ -1,7 +1,7 @@
 public class Mumbling {
     public static String accum(String s) {
 
-        
+        i
 
         for (int i = 0; i < length; i++) {
 
@@ -15,10 +15,10 @@ public class Mumbling {
 
 
                 else {
-                    result = result + Character.toLowerCase(currentChar);
+                    result;
                 }
             }
-            result = result + "-";
+            result = result + "-" + "lololololol" + "merge conflict merge";
         }
         System.out.println(result);
         return result.substring(0, result.length() -1 ); //don't need a hyphen (-) after d
