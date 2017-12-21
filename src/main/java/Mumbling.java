@@ -2,8 +2,7 @@ public class Mumbling {
     public static String accum(String s) {
 
         int length =s.length();
-        String result = "";
-
+        
         for (int i = 0; i < length; i++) {
 
             for (int j = 0; j <= i; j++)
